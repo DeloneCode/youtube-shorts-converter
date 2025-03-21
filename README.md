@@ -1,3 +1,4 @@
+[![youtube-converter.png](https://i.postimg.cc/3RD1ThXn/youtube-converter.png)](https://postimg.cc/Q9h1QRnT)
 # YouTube Shorts Video Converter
 
 A Python application that converts videos to YouTube Shorts format (9:16 aspect ratio) with a modern PyQt5 GUI.
