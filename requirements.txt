@@ -1,0 +1,8 @@
+PyQt5==5.15.10
+moviepy==1.0.3
+numpy==1.26.3
+decorator==4.4.2
+imageio==2.33.1
+imageio-ffmpeg==0.4.9
+proglog==0.1.10
+opencv-python==4.9.0.80 
